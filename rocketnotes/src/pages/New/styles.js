@@ -34,7 +34,7 @@ margin: 38px auto;
 
   margin-bottom: 36px;
 
-  a {
+  ButtonText {
     font-size: 20px;
     color: ${({ theme }) => theme.COLORS.GRAY_100};
   };
